@@ -17,7 +17,8 @@ if($film) {
 	<style>
 		li { 
 			display: inline;
-			pading;
+			pading: 20px;
+			margin: 10;
 		}
 	</style>
 </head>
