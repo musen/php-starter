@@ -17,7 +17,7 @@ if($film) {
 	<style>
 		li { 
 			display: inline;
-			pading: 20px;
+			padding: 20px;
 			margin: 10;
 		}
 	</style>
@@ -28,11 +28,11 @@ if($film) {
 
 
 <ul>
-	<a href="#"><li>Title</li> </a>
-	<a href=""><li>Genre</li> </a>
-	<a href=""><li>running time</li> </a>
-	<a href=""><li>poster</li> </a>
-	<a href=""><li>description</li> </a>
+<li>Title</li> </a>
+<li>Genre</li> </a>
+<li>running time</li> </a>
+<li>poster</li> </a>
+<li>description</li> </a>
 	
 	
 
